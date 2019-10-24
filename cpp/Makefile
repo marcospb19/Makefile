@@ -12,7 +12,7 @@ CFLAGS = -O2 -Wall -Wextra -Wshadow -std=c++11
 LDFLAGS =
 
 # Object files to be built
-OBJECTS = mytimer.o time.o
+OBJECTS = cppfile1.o cppfile2.o
 
 
 

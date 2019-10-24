@@ -12,7 +12,7 @@ CFLAGS = -O2 -Wall -Wextra -std=c11
 LDFLAGS = -lm
 
 # Object files to be built
-OBJECTS = mytimer.o time.o
+OBJECTS = cfile1.o cfile2.o
 
 
 
