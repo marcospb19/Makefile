@@ -12,7 +12,8 @@ Change the variables at the start of the file to adapt to your program
 ### Starting with Makefiles
 A Makefile is (normally) just a file that will instruct an tool (called Make) to do a series of steps.
 
-Generally, the Makefile is used to build apps in a automated way, making deploys, tests, calling the compiler and a range of other things.### Makefile structure
+Generally, the Makefile is used to build apps in a automated way, making deploys, tests, calling the compiler and a range of other things.
+### Makefile structure
 The Makefile structure contains, basically, a name of a file (that you be created), the requisites for build this file, and a command telling what to do with this file using the requisites.
 
 An example of that can be found bellow:
